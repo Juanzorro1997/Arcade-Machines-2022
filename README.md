@@ -1,5 +1,10 @@
 # Arcade-Machines-2022
 
+**Installation**
+
+Extract the .rar file and you will get Arcade Machines 2022 folder. Put that extracted folder in Addons section at C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons or put it on your server.
+
+
 **Important Requirements**
 
 You need to start the game on the beta x86-64 -Chronium +64 -bit binaries for the games to work properly.
